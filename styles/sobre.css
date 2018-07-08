@@ -1,0 +1,114 @@
+/*********************************
+7. About
+*********************************/
+
+.about {
+    padding-top: 195px;
+    padding-bottom: 175px;
+}
+
+.about_background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.about_shapes {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.section_title h2 {
+    display: inline-block;
+    position: relative;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    line-height: 1.35;
+    margin-bottom: 116px;
+}
+
+.section_title h2 span {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50px);
+    -moz-transform: translate(-50%, -50px);
+    -ms-transform: translate(-50%, -50px);
+    -o-transform: translate(-50%, -50px);
+    transform: translate(-50%, -50px);
+    font-size: 72px;
+    font-weight: 900;
+    color: #ff0000;
+    opacity: 0.32;
+}
+
+.section_title h2::before {
+    display: block;
+    position: absolute;
+    bottom: 61px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(calc(-50% - 4px));
+    width: 2px;
+    height: 45px;
+    content: '';
+    background: #FFFFFF;
+}
+
+.about_text {
+    padding-right: 50px;
+}
+
+.about_text p {
+    color: #FFFFFF;
+    margin-bottom: 0px;
+}
+
+.about_text img {
+    margin-top: 20px;
+}
+
+
+/*********************************
+7.1 About Progress Bars
+*********************************/
+
+.skills_container {
+    padding-top: 10px;
+}
+
+.pb_item {
+    margin-bottom: 18px;
+}
+
+.pb_item h5 {
+    text-transform: uppercase;
+    color: #FFFFFF;
+    letter-spacing: 0.3em;
+    margin-top: 18px;
+}
+
+.skill_bars {
+    height: 3px;
+}
+
+.progressbar-text {
+    width: 48px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    text-align: right;
+}

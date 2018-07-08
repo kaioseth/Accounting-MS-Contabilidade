@@ -1,0 +1,42 @@
+/*********************************
+10. Clients
+*********************************/
+
+.clients {
+    padding-top: 192px;
+    padding-bottom: 110px;
+}
+
+
+/*********************************
+10.1 Clients Slider
+*********************************/
+
+.clients_slider {
+    margin-top: 87px;
+    cursor: pointer;
+}
+
+.clients_item {}
+
+.clients_item img {
+    margin: 0 auto;
+    -webkit-filter: opacity(50%) grayscale(100%);
+    -ms-filter: opacity(30%), grayscale(100%);
+    -moz-filter: opacity(30%) grayscale(100%);
+    filter: opacity(30%) grayscale(100%);
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
+}
+
+.clients_item:hover img {
+    -webkit-filter: opacity(100%) grayscale(0%);
+    filter: opacity(100%) grayscale(0%);
+}
+
+.owl-carousel .owl-item img {
+    width: auto !important;
+}

@@ -112,7 +112,7 @@
 					<div class="icon_container d-flex flex-column justify-content-end">
 						<img src="images/icon_1.svg" alt="">
 					</div>
-					<h3>modern design</h3>
+					<h3>Serviço Principal 1</h3>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum, quam tincidunt venen atis ultrices.</p>
 				</div>
 			</div>
@@ -124,7 +124,7 @@
 					<div class="icon_container d-flex flex-column justify-content-end">
 						<img src="images/icon_2.svg" alt="">
 					</div>
-					<h3>easy to use</h3>
+					<h3>Serviço Principal 2</h3>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum, quam tincidunt venen atis ultrices.</p>
 				</div>
 			</div>
@@ -136,7 +136,7 @@
 					<div class="icon_container d-flex flex-column justify-content-end">
 						<img src="images/icon_3.svg" alt="">
 					</div>
-					<h3>well documented</h3>
+					<h3>Serviço Principal 3</h3>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum, quam tincidunt venen atis ultrices.</p>
 				</div>
 			</div>

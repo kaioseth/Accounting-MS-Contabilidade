@@ -1,9 +1,8 @@
 <div class="clients">
 	<div class="container">
-
 		<div class="row">
 			<div class="col-lg-6 offset-lg-3 text-center section_title section_title_dark">
-				<h2>our clients<span>z</span></h2>
+				<h2 style="color: black;">Nossos Clientes</h2>
 			</div>
 		</div>
 
@@ -18,9 +17,7 @@
 
 		<div class="row">
 			<div class="col">
-				
 				<!-- Clients Slider -->
-
 				<div class="clients_slider_container">
 					<div class="owl-carousel owl-theme clients_slider">
 
@@ -48,12 +45,9 @@
 						<div class="owl-item clients_item">
 							<img src="images/client_5.png" alt="">
 						</div>
-
 					</div>
 				</div>
-
 			</div>
 		</div>
-
 	</div>
 </div>

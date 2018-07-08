@@ -1,0 +1,39 @@
+/*********************************
+12. Footer
+*********************************/
+
+.footer {
+    background: #111111;
+}
+
+.footer_content {
+    height: 96px;
+}
+
+.footer_social_container {
+    display: inline-block;
+}
+
+.footer_social li {
+    display: inline-block;
+    margin-left: 6px;
+}
+
+.footer_social li:first-child {
+    margin-left: 0px;
+}
+
+.footer_social li a {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+}
+
+.footer_social li i {
+    font-size: 14px;
+    color: rgba(110, 110, 110, 0.6);
+}
+
+.footer_social li:hover i {
+    color: rgba(255, 255, 255, 1);
+}

@@ -1,46 +1,48 @@
-<div class="about prlx_parent">
-	<!-- https://unsplash.com/@nativemello -->
-	<div class="about_background prlx" style="background-image:url(images/about_background.jpg)"></div>
-	<div class="about_shapes"><img src="images/about_shapes.png" alt=""></div>
+<!-- Header -->
+<header class="header d-flex flex-row justify-content-end align-items-center">
 
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6 offset-lg-3 text-center section_title">
-				<h2>about our project<span>z</span></h2>
-			</div>
+	<!-- Logo -->
+	<div class="logo_container mr-auto">
+		<div class="logo">
+			<a href="#"><span>A</span>Accounting<span>.</span></a>
 		</div>
-		<div class="row">
+	</div>
 
-			<div class="col-lg-6">
-				<div class="about_text">
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum, quam tincidunt venenatis ultrices, est libero mattis ante, ac consectetur diam neque eget quam. Etiam feugiat augue et varius blandit. Praesent mattis, eros a sodales commodo, justo ipsum rutrum mauris, sit amet egestas metus.</p>
-					<img src="images/signiture.png" alt="">
-				</div>
-			</div>
+	<!-- Main Navigation -->
+	<nav class="main_nav justify-self-end">
+		<ul class="nav_items">
+			<li class="active"><a href="#"><span>home</span></a></li>
+			<li><a href="servicos.php"><span>serviços</span></a></li>
+			<li><a href="principios.php"><span>princípios</span></a></li>
+			<li><a href="contato.php"><span>contato</span></a></li>
+		</ul>
+	</nav>
 
-			<div class="col-lg-6">
-				<div class="skills_container">
-					<ul class="progress_bar_container col_12 clearfix">
-						<li class="pb_item">
-							<div id="skill_1_pbar" class="skill_bars" data-perc="0.85" data-name="skill_1_pbar"></div>
-							<h5>management</h5>
-						</li>
-						<li class="pb_item">
-							<div id="skill_2_pbar" class="skill_bars" data-perc="1" data-name="skill_2_pbar"></div>
-							<h5>design</h5>
-						</li>
-						<li class="pb_item">
-							<div id="skill_3_pbar" class="skill_bars" data-perc="0.75" data-name="skill_3_pbar"></div>
-							<h5>projects</h5>
-						</li>
-						<li class="pb_item">
-							<div id="skill_4_pbar" class="skill_bars" data-perc="0.95" data-name="skill_4_pbar"></div>
-							<h5>inspiration</h5>
-						</li>
-					</ul>
-				</div>
-			</div>
+	<!-- Hamburger -->
+	<div class="hamburger_container">
+		<span class="hamburger_text">Menu</span>
+		<span class="hamburger_icon"></span>
+	</div>
 
-		</div>
+</header>
+
+<!-- Menu -->
+<div class="fs_menu_overlay"></div>
+<div class="fs_menu_container">
+	<div class="fs_menu_shapes"><img src="images/menu_shapes.png" alt=""></div>
+	<nav class="fs_menu_nav">
+		<ul class="fs_menu_list">
+			<li><a href="#"><span><span>H</span>Home</span></a></li>
+			<li><a href="#"><span><span>S</span>Serviços</span></a></li>
+			<li><a href="#"><span><span>E</span>Princípios</span></a></li>
+			<li><a href="#"><span><span>C</span>Contato</span></a></li>
+		</ul>
+	</nav>
+	<div class="fs_social_container d-flex flex-row justify-content-end align-items-center">
+		<ul class="fs_social">
+			<li><a href="#"><i class="fab fa-facebook-f trans_300"></i></a></li>
+			<li><a href="#"><i class="fab fa-twitter trans_300"></i></a></li>
+			<li><a href="#"><i class="fab fa-linkedin-in trans_300"></i></a></li>
+		</ul>
 	</div>
 </div>

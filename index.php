@@ -37,7 +37,6 @@
 				<li class="active"><a href="#"><span>home</span></a></li>
 				<li><a href="servicos.php"><span>serviços</span></a></li>
 				<li><a href="principios.php"><span>princípios</span></a></li>
-				<!--<li><a href="blog.html"><span>blog</span></a></li>-->
 				<li><a href="contato.php"><span>contato</span></a></li>
 			</ul>
 		</nav>
@@ -60,32 +59,24 @@
 				<li><a href="#"><span><span>H</span>Home</span></a></li>
 				<li><a href="#"><span><span>S</span>Serviços</span></a></li>
 				<li><a href="#"><span><span>E</span>Princípios</span></a></li>
-				<!--<li><a href="#"><span><span>B</span>Blog</span></a></li>-->
 				<li><a href="#"><span><span>C</span>Contato</span></a></li>
 			</ul>
 		</nav>
 		<div class="fs_social_container d-flex flex-row justify-content-end align-items-center">
 			<ul class="fs_social">
-				<li><a href="#"><i class="fab fa-pinterest trans_300"></i></a></li>
 				<li><a href="#"><i class="fab fa-facebook-f trans_300"></i></a></li>
 				<li><a href="#"><i class="fab fa-twitter trans_300"></i></a></li>
-				<li><a href="#"><i class="fab fa-dribbble trans_300"></i></a></li>
-				<li><a href="#"><i class="fab fa-behance trans_300"></i></a></li>
 				<li><a href="#"><i class="fab fa-linkedin-in trans_300"></i></a></li>
 			</ul>
 		</div>
 	</div>
 
 	<section id="initial">
-<?php
-		include_once('home.php');
-?>
+		<?php include_once('home.php'); ?>
 	</section>
 
 	<section>
-<?php
-		include_once('sobre.php');
-?>
+		<?php include_once('sobre.php'); ?>
 	</section>
 
 	<!-- Services -->

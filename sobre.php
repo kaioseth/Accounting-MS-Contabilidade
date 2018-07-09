@@ -1,11 +1,11 @@
 <div class="about prlx_parent">
-	<div class="about_background prlx" style="background-image:url(images/about_background.jpg)"></div>
+	<div class="about_background prlx" style="background-image:url(imagens/ciencias-contabeis.png)"></div>
 	<div class="about_shapes"><img src="images/about_shapes.png" alt=""></div>
 
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 offset-lg-3 text-center section_title">
-				<h2>Nossas capacidades</h2>
+				<h2>Áreas de atuação</h2>
 			</div>
 		</div>
 		<div class="row">
@@ -26,20 +26,20 @@
 				<div class="skills_container">
 					<ul class="progress_bar_container col_12 clearfix">
 						<li class="pb_item">
-							<div id="skill_1_pbar" class="skill_bars" data-perc="0.85" data-name="skill_1_pbar"></div>
-							<h5>Capacidade 1</h5>
+							<div id="skill_1_pbar" class="skill_bars" data-perc="1" data-name="skill_1_pbar"></div>
+							<h5>Fiscal</h5>
 						</li>
 						<li class="pb_item">
 							<div id="skill_2_pbar" class="skill_bars" data-perc="1" data-name="skill_2_pbar"></div>
-							<h5>Capacidade 2</h5>
+							<h5>Trabalhista</h5>
 						</li>
 						<li class="pb_item">
-							<div id="skill_3_pbar" class="skill_bars" data-perc="0.75" data-name="skill_3_pbar"></div>
-							<h5>Capacidade 3</h5>
+							<div id="skill_3_pbar" class="skill_bars" data-perc="1" data-name="skill_3_pbar"></div>
+							<h5>Tributária</h5>
 						</li>
 						<li class="pb_item">
-							<div id="skill_4_pbar" class="skill_bars" data-perc="0.95" data-name="skill_4_pbar"></div>
-							<h5>Capacidade 4</h5>
+							<div id="skill_4_pbar" class="skill_bars" data-perc="1" data-name="skill_4_pbar"></div>
+							<h5>Empresarial</h5>
 						</li>
 					</ul>
 				</div>

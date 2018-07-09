@@ -38,9 +38,9 @@
 				<?php include_once('sobre.php'); ?>
 			</section>
 
-			<section id="clientes">
-				<?php include_once('clientes.php'); ?>
-			</section>
+			<!--<section id="clientes">
+				<?php //include_once('clientes.php'); ?>
+			</section>-->
 
 			<section id="contato">
 				<?php include_once('contato.php'); ?>

@@ -3,10 +3,13 @@
 		<div class="row footer_content d-flex flex-sm-row flex-column align-items-center">
 			<div class="col-sm-6 cr text-sm-left text-center">
 				<p>
-					Copyright &copy;<?php echo date('Y'); ?>
-					Todos os direitos reservados | 
-					<i class="fab fa-contao" aria-hidden="true"></i> por 
+					Copyright &copy; 
+					<i class="fab fa-contao" aria-hidden="true"></i>
 					<a href="http:\\www.accountingms.com.br" target="_blank">Accounting MS</a>
+					 - <?php echo date('Y'); ?> - 
+					Todos os direitos reservados 
+					 Desenvolvido por BNR Softwares
+					
 				</p>
 			</div>
 			<div class="col-sm-6 text-sm-right text-center">

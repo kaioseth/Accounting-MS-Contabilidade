@@ -1,5 +1,5 @@
 <div class="contact prlx_parent">
-	<div class="contact_background prlx" style="background-image: url(imagens/trabalhar juntos.jpg);"></div>
+	<div class="contact_background prlx" style="background-image: url(imagens/contato.jpg);"></div>
 	<div class="contact_shapes"><img src="images/contact_shape.png" alt=""></div>
 	<div class="container">		
 		<div class="row">

@@ -3,8 +3,8 @@
 *********************************/
 
 .contact {
-    padding-top: 192px;
-    padding-bottom: 120px;
+    padding-top: 110px;
+    padding-bottom: 110px;
 }
 
 .contact_background {
@@ -40,5 +40,9 @@
 .contact_button {
     margin-left: auto;
     margin-right: auto;
+    margin-top: 60px;
+}
+
+#contato {
     margin-top: 60px;
 }

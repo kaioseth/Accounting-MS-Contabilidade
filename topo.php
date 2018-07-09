@@ -4,7 +4,7 @@
 	<!-- Logo -->
 	<div class="logo_container mr-auto">
 		<div class="logo">
-			<a href="#"><span>A</span>Accounting<span>.</span></a>
+			<a href="#"><span>A</span>Accounting<span>ms</span></a>
 		</div>
 	</div>
 

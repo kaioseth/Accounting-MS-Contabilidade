@@ -1,0 +1,154 @@
+/*********************************
+8. Testimonials
+*********************************/
+
+.testimonials {
+    padding-top: 195px;
+    z-index: 2;
+}
+
+.section_title_dark h2 {
+    color: #1c1c1c;
+}
+
+.section_title_dark h2::before {
+    background: #ff4200;
+}
+
+.testimonials_container {
+    width: 100%;
+}
+
+.testimonials_container_inner {
+    position: absolute;
+    top: 28px;
+    left: 0;
+    width: 100%;
+    height: calc(100% - 28px);
+    box-shadow: 0 22px 35px rgba(0, 0, 0, 0.28);
+}
+
+.testimonials_container_inner::before {
+    display: block;
+    position: absolute;
+    top: 35px;
+    left: -35px;
+    width: calc(100% + 70px);
+    height: calc(100% - 70px);
+    content: '';
+    background: rgba(242, 244, 249, 0.85);
+    z-index: -1;
+}
+
+.testimonials_container_inner::after {
+    display: block;
+    position: absolute;
+    top: 70px;
+    left: -85px;
+    width: calc(100% + 170px);
+    height: calc(100% - 140px);
+    content: '';
+    background: rgba(242, 244, 249, 0.65);
+    z-index: -2;
+}
+
+.testimonials_slider {
+    z-index: 10;
+}
+
+.testimonials_item {
+    padding-top: 28px;
+    background: #FFFFFF;
+}
+
+.testimonials_content {
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 49px;
+    padding-top: 120px;
+    max-width: 100%;
+}
+
+.test_name {
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    color: #1c1c1c;
+    text-transform: uppercase;
+}
+
+.test_title {
+    font-size: 15px;
+    font-weight: 400;
+    color: #ff4200;
+    margin-top: -5px;
+}
+
+.test_quote {
+    font-size: 30px;
+    line-height: 1;
+    color: #ff4200;
+    font-style: italic;
+    margin-top: 15px;
+}
+
+.testimonials_content p {
+    max-width: 100%;
+}
+
+.testimonials_content p:first-of-type {
+    margin-top: -3px;
+}
+
+.test_user_pic {
+    position: absolute;
+    top: -28px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+    width: 94px;
+    height: 94px;
+}
+
+
+/*********************************
+8.1 Testimonials Navigation
+*********************************/
+
+.test_slider_nav {
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 48px;
+    height: 48px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.test_slider_nav:hover {
+    background: #ff4200;
+}
+
+.test_slider_nav:hover i {
+    color: #FFFFFF;
+}
+
+.test_slider_nav i {
+    font-size: 18px;
+    color: #ff4200;
+}
+
+.test_slider_nav_left {
+    left: -48px;
+}
+
+.test_slider_nav_right {
+    right: -48px;
+}

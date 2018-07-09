@@ -11,9 +11,9 @@
 					<div class="row">
 						<div class="col slider_content_col">
 							<div class="main_slider_content">
-								<h1>Accounting MS</h1>
+								<!--<h1>Accounting MS</h1>
 								<h1><span>Acessoria</span> e <span>Consultoria</span> fiscal</h1>
-								<!--<p>Lorem ipsum dolor sit amet, 
+								<p>Lorem ipsum dolor sit amet, 
 								consectetur adipiscing elit. Curabitur leo est,
 								 feugiat nec elementum id, suscipit id nulla. </p>
 								<div class="button discover_button">
@@ -33,12 +33,12 @@
 					<div class="row">
 						<div class="col slider_content_col">
 							<div class="main_slider_content">
-								<h1>Do you need</h1>
+								<!--<h1>Do you need</h1>
 								<h1>a <span>modern</span> website?</h1>
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur leo est, feugiat nec elementum id, suscipit id nulla. </p>
 								<div class="button discover_button">
 									<a href="#" class="d-flex flex-row align-items-center justify-content-center">discover<img src="images/arrow_right.svg" alt=""></a>
-								</div>
+								</div>-->
 							</div>
 						</div>
 					</div>
@@ -47,18 +47,18 @@
 
 			<!-- Slider Item -->
 			<div class="owl-item main_slider_item">
-				<div class="main_slider_item_bg" style="background-image:url(images/main_slider_1.jpg)"></div>
+				<div class="main_slider_item_bg" style="background-image:url(imagens/assessoria-juridica.jpg)"></div>
 				<div class="main_slider_shapes"><img src="images/main_slider_shapes.png" alt="" style="width: 100% !important;"></div>
 				<div class="container">
 					<div class="row">
 						<div class="col slider_content_col">
 							<div class="main_slider_content">
-								<h1>Do you need</h1>
+								<!--<h1>Do you need</h1>
 								<h1>a <span>modern</span> website?</h1>
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur leo est, feugiat nec elementum id, suscipit id nulla. </p>
 								<div class="button discover_button">
 									<a href="#" class="d-flex flex-row align-items-center justify-content-center">discover<img src="images/arrow_right.svg" alt=""></a>
-								</div>
+								</div>-->
 							</div>
 						</div>
 					</div>

@@ -1,11 +1,11 @@
 <div class="services">
 
-	<div class="container">
+	<!--<div class="container">
 		<div class="row">
 
 			<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
 				<div class="icon_container d-flex flex-column justify-content-end">
-					<img src="images/icon_1.svg" alt="">
+					<img src="../images/icon_1.svg" alt="">
 				</div>
 				<h3>modern design</h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum.</p>
@@ -13,7 +13,7 @@
 
 			<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
 				<div class="icon_container d-flex flex-column justify-content-end">
-					<img src="images/icon_2.svg" alt="">
+					<img src="../images/icon_2.svg" alt="">
 				</div>
 				<h3>easy to use</h3>
 				<p>Dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum, quam tincidunt.</p>
@@ -21,7 +21,7 @@
 
 			<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
 				<div class="icon_container d-flex flex-column justify-content-end">
-					<img src="images/icon_3.svg" alt="">
+					<img src="../images/icon_3.svg" alt="">
 				</div>
 				<h3>well documented</h3>
 				<p>Adipiscing elit. Phasellus vestibulum, quam tincidunt venen atis ultrices.</p>
@@ -29,7 +29,7 @@
 
 			<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
 				<div class="icon_container d-flex flex-column justify-content-end">
-					<img src="images/icon_4.svg" alt="">
+					<img src="../images/icon_4.svg" alt="">
 				</div>
 				<h3>smart structure</h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum.</p>
@@ -37,7 +37,7 @@
 
 			<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
 				<div class="icon_container d-flex flex-column justify-content-end">
-					<img src="images/icon_5.svg" alt="">
+					<img src="../images/icon_5.svg" alt="">
 				</div>
 				<h3>elements</h3>
 				<p>Dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum, quam tincidunt.</p>
@@ -45,7 +45,7 @@
 
 			<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
 				<div class="icon_container d-flex flex-column justify-content-end">
-					<img src="images/icon_6.svg" alt="">
+					<img src="../images/icon_6.svg" alt="">
 				</div>
 				<h3>bold colors</h3>
 				<p>Adipiscing elit. Phasellus vestibulum, quam tincidunt venen atis ultrices.</p>
@@ -63,7 +63,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div>-->
 
 <!-- Cards -->
 
@@ -74,9 +74,9 @@
 
 			<!-- Card Item -->
 			<div class="col-lg-4 zeta_card zeta_card_1 prlx_parent">
-				<div class="zeta_card_background prlx" style="background-image:url(images/card_1.jpg)"></div>
+				<div class="zeta_card_background prlx" style="background-image:url(../images/card_1.jpg)"></div>
 				<div class="zeta_card_content">
-					<h2>smart structure</h2>
+					<h2>Assessoria Contábil</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum, quam tincidunt venenatis ultrices, est libero mattis ante, ac consectetur diam neque eget quam. Etiam feugiat augue et varius blandit. Praesent mattis, eros a sodales commodo, justo ipsum rutrum mauris, sit amet egestas metus.</p>
 					<div class="button line_button zeta_card_button">
 						<a href="#" class="d-flex flex-row align-items-center justify-content-center">discover<img src="images/arrow_right.svg" alt=""></a>
@@ -86,9 +86,9 @@
 
 			<!-- Card Item -->
 			<div class="col-lg-4 zeta_card zeta_card_2 prlx_parent">
-				<div class="zeta_card_background prlx" style="background-image:url(images/card_2.jpg)"></div>
+				<div class="zeta_card_background prlx" style="background-image:url(../images/card_2.jpg)"></div>
 				<div class="zeta_card_content">
-					<h2>marketing</h2>
+					<h2>Assessoria Fiscal</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum, quam tincidunt venenatis ultrices, est libero mattis ante, ac consectetur diam neque eget quam. Etiam feugiat augue et varius blandit. Praesent mattis, eros a sodales commodo, justo ipsum rutrum mauris, sit amet egestas metus.</p>
 					<div class="button zeta_card_button">
 						<a href="#" class="d-flex flex-row align-items-center justify-content-center">discover<img src="images/arrow_right.svg" alt=""></a>
@@ -98,9 +98,9 @@
 
 			<!-- Card Item -->
 			<div class="col-lg-4 zeta_card zeta_card_3 prlx_parent">
-				<div class="zeta_card_background prlx" style="background-image:url(images/card_3.jpg)"></div>
+				<div class="zeta_card_background prlx" style="background-image:url(../images/card_3.jpg)"></div>
 				<div class="zeta_card_content">
-					<h2>strategy</h2>
+					<h2>Assessoria Trabalhista</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum, quam tincidunt venenatis ultrices, est libero mattis ante, ac consectetur diam neque eget quam. Etiam feugiat augue et varius blandit. Praesent mattis, eros a sodales commodo, justo ipsum rutrum mauris, sit amet egestas metus.</p>
 					<div class="button zeta_card_button">
 						<a href="#" class="d-flex flex-row align-items-center justify-content-center">discover<img src="images/arrow_right.svg" alt=""></a>
@@ -122,7 +122,7 @@
 			<!-- Pic Box -->
 			<div class="col-lg-4 pic_box">
 				<div class="card">
-					<img src="images/pic_box_1.jpg" class="card-img-top" alt="">
+					<img src="../images/pic_box_1.jpg" class="card-img-top" alt="">
 					<h3 class="card-title pic_box_title">the future</h3>
 					<p class="card-text pic_box_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum, quam tincidunt venen.</p>
 					<a href="#" class="pic_box_link">read more
@@ -137,7 +137,7 @@
 			<!-- Pic Box -->
 			<div class="col-lg-4 pic_box">
 				<div class="card">
-					<img src="images/pic_box_2.jpg" class="card-img-top" alt="">
+					<img src="../images/pic_box_2.jpg" class="card-img-top" alt="">
 					<h3 class="card-title pic_box_title">investment strategy</h3>
 					<p class="card-text pic_box_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum, quam tincidunt venen.</p>
 					<a href="#" class="pic_box_link">read more
@@ -152,7 +152,7 @@
 			<!-- Pic Box -->
 			<div class="col-lg-4 pic_box">
 				<div class="card">
-					<img src="images/pic_box_3.jpg" class="card-img-top" alt="">
+					<img src="../images/pic_box_3.jpg" class="card-img-top" alt="">
 					<h3 class="card-title pic_box_title">new plans</h3>
 					<p class="card-text pic_box_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vestibulum, quam tincidunt venen.</p>
 					<a href="#" class="pic_box_link">read more
